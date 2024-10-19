@@ -2,7 +2,13 @@
   "name": "singular-plural",
   "displayName": "singular-plural",
   "description": "Converts selected text between singular and plural forms.",
-  "version": "0.0.1",
+  "version": "1.0.0",
+  "icon": "images/icon.png",
+  "publisher": "desmondhiew",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/desmondhiew00/vscode-singular-plural.git"
+  },
   "engines": {
     "vscode": "^1.94.0"
   },

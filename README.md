@@ -2,6 +2,8 @@
 
 This Visual Studio Code extension allows you to quickly switch selected text between singular and plural forms. 
 
+![](https://github.com/desmondhiew00/vscode-singular-plural/images/demo.gif)
+
 ## Features
 - Convert selected text to plural.
 - Convert selected text to singular.
@@ -24,6 +26,3 @@ You can install this extension from the Visual Studio Code Marketplace.
 ### 1.0.0
 
 Initial release of singular-plural Extension
-
-## License
-MIT

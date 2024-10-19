@@ -21,9 +21,3 @@ This extension leverages the [`pluralize`](https://www.npmjs.com/package/plurali
 
 ## Installation
 You can install this extension from the Visual Studio Code Marketplace.
-
-## Release Notes
-
-### 1.0.0
-
-Initial release of singular-plural Extension
